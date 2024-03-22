@@ -54,6 +54,3 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/ErickCor24/ErickCor24/output/snake.svg" alt="Snake animation" />
-
-###
