@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I am Erick from Ecuador, I am 21 years old studying a software engineer.<br><br>- 📚I am currently learning C# and .Net<br>- ⚡ In my free time I play or listen to music</p>
+<p align="left">I am Erick from Ecuador, I am 21 years old studying a software engineer.<br><br>- 📚I am currently learning C# and .Net<br>- ⚡ In my free time I play or listen to music </p>
 
 ###
 
